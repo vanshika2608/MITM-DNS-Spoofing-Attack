@@ -1,6 +1,3 @@
-# MITM-DNS-Spoofing-Attack
-A man-in-the-middle attack using DNS spoofing with Bettercap, Python server, and Wireshark
-
 # 🛡️ Man-in-the-Middle Attack using DNS Spoofing and Credential Harvesting
 
 This project demonstrates a **Man-in-the-Middle (MITM) attack** using **DNS spoofing** to redirect a victim to a fake login page, where their credentials are captured by the attacker. The attack was executed in a safe, controlled virtual environment using Kali Linux, Bettercap, a custom Python HTTP server, and Wireshark.
@@ -32,9 +29,7 @@ This project demonstrates a **Man-in-the-Middle (MITM) attack** using **DNS spoo
 
 ## 🎥 Project Demonstration
 
-📎 [Watch Phase 3 Demo](https://drive.google.com/YOUR_SHARE_LINK)
-
-*(or add `Phase3_DNS_Spoofing_Demo.mov` if uploading directly to GitHub under 100MB)*
+📎 [Watch Phase 3 Demo]([https://drive.google.com/YOUR_SHARE_LINK](https://drive.google.com/file/d/1O33an_vlMTm1KxUjwLh0JT4WR03NESlG/view?usp=sharing))
 
 ---
 
